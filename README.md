@@ -33,6 +33,11 @@ This program generates Git commits for random days in the current year, up to an
 4. Run the compiled program `main.exe` in a Git repository:
 `main.exe`
 
+### Custom Date
+
+- You can use the `--backtrack` or `--b` flag when running `main.exe` to generate commits starting from the current day and going back the specified number of days. 
+E.g. `main.exe --backtrack 2` generates commits starting from the current day and going back 2 days. The default value is 365 days.
+
 ## Notes
 - The program has been tested on Windows x64 systems. Compatibility with other operating systems is not guaranteed.
 
