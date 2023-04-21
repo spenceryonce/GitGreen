@@ -34,8 +34,6 @@ This program generates Git commits for random days in the current year, up to an
 `main.exe`
 
 ## Notes
-
-- This program is for educational purposes only. Please do not use it to generate misleading contribution history on your GitHub profile or others'.
 - The program has been tested on Windows x64 systems. Compatibility with other operating systems is not guaranteed.
 
 ## License
